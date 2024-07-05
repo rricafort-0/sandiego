@@ -1,0 +1,32 @@
+/* @license GNU-GPL-2.0-or-later https://www.drupal.org/licensing/faq 
+*
+*  Original link: https://www.sandiego.gov/sites/default/files/css/css_Sc_REy0gyfSU0N-I1iaSpH_t1nvHOw0M-2kqZ5WWj-E.css?delta=5&amp;language=en&amp;theme=sand&amp;include=eJx9U1uOIyEMvBDTSHuhlgGHeGJwhN15zOmX7iaZmWS1P1DltwoDqmgz1U-MJs1_6pRFMuMMFfhuFNXBW0iRqpTk1RNVJ8NynjuYD9JmKpBRXQTGmqAHDDDZEQu6eMJEtsbVhNUCSzz5H9hFYWlBbj7hARa2p6FnMFX0L_zbzwLJ_2IugQHDHZsPeIQLSVNX88yUj7b2-IGdQk0zpELVDzmsQVUGQ1fWobFTn1kC8IfavTfPvXlDX6UVYPrCrYbvjtO5SUTVNWSzBTwcaO_hv5YWPg6ydFWMpO7GVw4mRYeL8aZMCdvOu8CVDhR3tun9JVJGXuwjpWcZg_CoItUGzFixPfKPyGdsw3PmJVMdpAhjXBgHlZahkj6mksUaQjz-gRcedr5NPGK_hRyFE_AO1wfqMz6bUCWjXUu82aqkT205A0-DugvhVf129p1MfT53xdA3r_hxT-vxZkTu61dtSmhArJPC5T3zNcgk5380eISV_sRdfQfVKIj5cf9_AO0gmrMwF8zQTYsPoPjLsK7XKklfumuXce5_qNkmzl_EfnOS
+*/
+.width-25.width-100 {
+  width: 25% !important;
+}
+.width-33.width-100 {
+  width: 33% !important;
+}
+.width-50.width-100 {
+  width: 50% !important;
+}
+.img-right.align-center {
+  float: right !important;
+  margin: 0 0 1.2rem 1.5rem !important;
+}
+.img-left.align-center {
+  float: left !important;
+  margin: 0 1.5rem 1.2rem 0 !important;
+}
+@media print, screen and (max-width: 37.49875em) {
+  .width-100--mobile.width-100 {
+    width: 100% !important;
+  }
+  .width-50--mobile.width-100 {
+    width: 50% !important;
+  }
+}
+.card__image figure.media--type-image {
+  margin-bottom: 0;
+}
